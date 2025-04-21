@@ -101,7 +101,7 @@ python build_simple.py
 Если вы хотите более гибкую настройку процесса сборки:
 
 ```bash
-pyinstaller Диагностика_дисков.spec
+pyinstaller main.spec
 ```
 
 ## Примечания по сборке
